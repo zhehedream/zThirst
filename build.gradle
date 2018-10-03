@@ -1,0 +1,14 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'zhehe.Thirst' // TODO
+version = '1.0-SNAPSHOT'
+description = 'A small thirst plugin'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:7.0.0'
+}
+
+sourceCompatibility = "1.8";
+targetCompatibility = "1.8";

@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "zthirst",
+        "name": "ZThirst",
+        "version": "1.0",
+        "description": "A small thirst plugin",
+        "authorList": [
+            "zhehe"
+        ],
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    }
+]
